@@ -1,0 +1,106 @@
+﻿1066	heart/cardiac problem	1082	1071	Y
+1075	heart attack/myocardial infarction	1092	1082	Y
+1076	heart failure/pulmonary odema	1093	1082	Y
+1077	heart arrhythmia	1094	1082	Y
+1471	atrial fibrillation	1532	1094	Y
+1483	atrial flutter	1546	1094	Y
+1484	wolff parkinson white / wpw syndrome	1547	1094	Y
+1485	irregular heart beat	1548	1094	Y
+1486	sick sinus syndrome	1549	1094	Y
+1487	svt / supraventricular tachycardia	1550	1094	Y
+1488	mitral valve prolapse	1551	1650	Y
+1489	mitral stenosis	1552	1650	Y
+1584	mitral valve disease	1650	1095	Y
+1585	mitral regurgitation / incompetence	1651	1650	Y
+1078	heart valve problem/heart murmur	1095	1082	Y
+1586	aortic valve disease	1652	1095	Y
+1587	aortic regurgitation / incompetence	1653	1652	Y
+1490	aortic stenosis	1553	1652	Y
+1079	cardiomyopathy	1096	1082	Y
+1588	hypertrophic cardiomyopathy (hcm / hocm)	1654	1096	Y
+1589	pericarditis	1655	1097	Y
+1590	pericardial effusion	1656	1097	Y
+1080	pericardial problem	1097	1082	Y
+1426	myocarditis	1481	1082	Y
+1479	rheumatic fever	1542	1082	Y
+1081	stroke	1098	1083	Y
+1086	subarachnoid haemorrhage	1103	1098	Y
+1491	brain haemorrhage	1554	1098	Y
+1583	ischaemic stroke	1649	1098	Y
+1082	transient ischaemic attack (tia)	1099	1083	Y
+1083	subdural haemorrhage/haematoma	1100	1083	Y
+1425	cerebral aneurysm	1480	1083	Y
+1067	peripheral vascular disease	1084	1071	Y
+1068	venous thromboembolic disease	1085	1071	Y
+1087	leg claudication/ intermittent claudication	1104	1084	Y
+1088	arterial embolism	1105	1084	Y
+1093	pulmonary embolism +/- dvt	1111	1085	Y
+1094	deep venous thrombosis (dvt)	1112	1085	Y
+1591	aortic aneurysm rupture	1657	1555	Y
+1592	aortic dissection	1658	1555	Y
+1493	other venous/lymphatic disease	1556	1071	Y
+1494	varicose veins	1557	1556	Y
+1495	lymphoedema	1558	1556	Y
+1593	varicose ulcer	1659	1556	Y
+1136	liver/biliary/pancreas problem	1156	1073	Y
+1155	hepatitis	1176	1156	Y
+1156	infective/viral hepatitis	1177	1176	Y
+1157	non-infective hepatitis	1178	1176	Y
+1578	hepatitis a	1642	1177	Y
+1579	hepatitis b	1643	1177	Y
+1580	hepatitis c	1644	1177	Y
+1581	hepatitis d	1645	1177	Y
+1582	hepatitis e	1646	1177	Y
+1158	liver failure/cirrhosis	1179	1156	Y
+1506	primary biliary cirrhosis	1569	1179	Y
+1604	alcoholic liver disease / alcoholic cirrhosis	1672	1179	Y
+1507	haemochromatosis	1570	1156	Y
+1508	jaundice (unknown cause)	1571	1156	Y
+1475	sclerosing cholangitis	1538	1180	Y
+1244	infection of nervous system	1270	1265	Y
+1245	brain abscess/intracranial abscess	1271	1270	Y
+1246	encephalitis	1272	1270	Y
+1247	meningitis	1273	1270	Y
+1248	spinal abscess	1274	1270	Y
+1249	cranial nerve problem/palsy	1275	1265	Y
+1250	bell's palsy/facial nerve palsy	1276	1275	Y
+1523	trigemminal neuralgia	1586	1275	Y
+1251	spinal cord disorder	1277	1265	Y
+1252	paraplegia	1278	1277	Y
+1524	spina bifida	1587	1277	Y
+1254	peripheral nerve disorder	1280	1265	Y
+1255	peripheral neuropathy	1281	1280	Y
+1256	acute infective polyneuritis/guillain-barre syndrome	1282	1280	Y
+1257	trapped nerve/compressed nerve	1283	1280	Y
+1468	diabetic neuropathy/ulcers	1528	1280	Y
+1258	chronic/degenerative neurological problem	1284	1265	Y
+1259	motor neurone disease	1285	1284	Y
+1260	myasthenia gravis	1286	1284	Y
+1261	multiple sclerosis	1287	1284	Y
+1262	parkinsons disease	1288	1284	Y
+1263	dementia/alzheimers/cognitive impairment	1289	1284	Y
+1397	other demyelinating disease (not multiple sclerosis)	1442	1284	Y
+1264	epilepsy	1290	1265	Y
+1265	migraine	1291	1265	Y
+1433	cerebral palsy	1488	1265	Y
+1434	other neurological problem	1489	1265	Y
+1436	headaches (not migraine)	1491	1489	Y
+1437	myasthenia gravis	1492	1489	Y
+1525	benign / essential tremor	1588	1489	Y
+1526	polio / poliomyelitis	1589	1489	Y
+1659	meningioma / benign meningeal tumour	1733	1489	Y
+1683	benign neuroma	1779	1489	Y
+1240	neurological injury/trauma	1266	1076	Y
+1266	head injury	1292	1266	Y
+1267	spinal injury	1293	1266	Y
+1297	muscle/soft tissue problem	1323	1077	Y
+1407	burns	1458	1077	Y
+1626	fracture skull / head	1697	1696	Y
+1630	fracture neck / cervical fracture	1701	1696	Y
+1625	cellulitis	1693	1510	Y
+1350	polycystic ovaries/polycystic ovarian syndrome	1392	1614	Y
+1371	sarcoidosis	1414	1080	Y
+1439	hiv/aids	1748	1747	Y
+1577	typhoid fever	1766	1762	Y
+1443	schistosomiasis/bilharzia	1764	1762	Y
+

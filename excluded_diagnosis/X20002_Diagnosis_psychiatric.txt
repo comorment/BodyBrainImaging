@@ -1,0 +1,16 @@
+﻿1243	psychological/psychiatric problem	1269	1076	Y
+1286	depression	1312	1269	Y
+1287	anxiety/panic attacks	1313	1269	Y
+1288	nervous breakdown	1314	1269	Y
+1289	schizophrenia	1315	1269	Y
+1290	deliberate self-harm/suicide attempt	1316	1269	Y
+1291	mania/bipolar disorder/manic depression	1317	1269	Y
+1531	post-natal depression	1594	1312	Y
+1408	alcohol dependency	1461	1460	Y
+1409	opioid dependency	1462	1460	Y
+1410	other substance abuse/dependency	1463	1460	Y
+1469	post-traumatic stress disorder	1530	1269	Y
+1470	anorexia/bulimia/other eating disorder	1531	1269	Y
+1614	stress	1682	1269	Y
+1615	obsessive compulsive disorder (ocd)	1683	1269	Y
+1616	insomnia	1684	1269	Y
