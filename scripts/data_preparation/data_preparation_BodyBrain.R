@@ -1,6 +1,6 @@
 rm(list = ls())
 
-working_directory <- "/net/tsd-evs.tsd.usit.no/p33/home/p33-tirilg/Documents/Projects/2019-UKbio/scripts/data_preparation/"
+working_directory <- "/your/working/directory/"
 setwd(working_directory)
 
 initial_submission <- FALSE
