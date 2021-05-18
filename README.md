@@ -8,7 +8,8 @@ scripts used in the first CoMorMent Body-Brain imaging project:
 
 *Gurholt et al., Population-based body-brain mapping links brain
 morphology with anthropometrics and body composition, Translational
-Psychiatry, 2021 **xxx:xxx**, **doi=xxx***
+Psychiatry **11:295** (2021),
+**doi=<https://doi.org/10.1038/s41398-021-01414-7>***
 
 Please credit this work if you choose to use or adapt these scripts.
 
@@ -41,6 +42,7 @@ This work was funded by the:
   - Research Council of Norway (\#223273; \#276082)
   - South-Eastern Norway Regional Health Authority (\#2017112;
     \#2020060).
+  - Kristian Gerhard Jebsen Stiftelsen (SKGJ-MED-021)
 
 ## Feedback
 
